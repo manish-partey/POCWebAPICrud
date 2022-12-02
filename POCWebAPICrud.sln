@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCWebAPICrud", "POCWebAPICrud\POCWebAPICrud.csproj", "{251D300E-E520-4B0B-A43E-68F279674D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251D300E-E520-4B0B-A43E-68F279674D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251D300E-E520-4B0B-A43E-68F279674D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251D300E-E520-4B0B-A43E-68F279674D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251D300E-E520-4B0B-A43E-68F279674D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011C2DE2-EA5A-4ACD-9CC7-0B347023F394}
+	EndGlobalSection
+EndGlobal
